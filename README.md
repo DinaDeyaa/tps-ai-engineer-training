@@ -1,23 +1,15 @@
-# AI Engineer Training | Tech Process Solutions (TPS)
+# AI Engineer Training — TPS
 
-This repository documents my progress through a **12-week AI Engineer Training Program** at **Tech Process Solutions (TPS)**.
+Repository for the 12-week AI Engineer training program at Tech Process Solutions (TPS).
 
-The program focuses on developing practical AI engineering skills through hands-on exercises, weekly assignments, and a final capstone project.
+Contains weekly learning exercises, assignments, and implementations covering Python, SQL, machine learning, FastAPI, deep learning, NLP, LLMs, RAG, and AI agents.
 
-## Key Learning Areas
+## Structure
 
-- **Programming:** Python, Git, and unit testing
-- **Data:** SQL and data processing
-- **Machine Learning:** Model development and evaluation
-- **Backend Development:** FastAPI
-- **Deep Learning:** PyTorch and NLP
-- **Generative AI:** LLMs and prompt engineering
-- **Advanced AI:** RAG pipelines and AI agents
-
-## Repository Structure
-
-Each week contains learning exercises, implementations, and assignments organized into dedicated folders.
+Each week is organized into:
+- **Learning Resources:** Exercises and practical implementations.
+- **Weekly Assignment:** Code, tests, documentation, and deliverables.
 
 ## Progress
 
-🚧 **In Progress** — Updated weekly throughout the training program.
+Updated throughout the training program as assignments are completed.
