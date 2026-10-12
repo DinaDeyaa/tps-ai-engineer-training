@@ -12,4 +12,10 @@ Each week is organized into:
 
 ## Progress
 
-Updated throughout the training program as assignments are completed.
+### Week 1 — Python Fundamentals
+- [x] S01: Kaggle Python — Hello, Python
+- [x] S01: Kaggle Python — Functions and Getting Help
+- [x] S01: Kaggle Python — Booleans and Conditionals
+- [ ] S01: Remaining Python lessons
+- [ ] S02–S05: Learning resources
+- [ ] Weekly assignment: Message Analysis Script
