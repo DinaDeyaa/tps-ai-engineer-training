@@ -13,9 +13,18 @@ Each week is organized into:
 ## Progress
 
 ### Week 1 — Python Fundamentals
-- [x] S01: Kaggle Python — Hello, Python
-- [x] S01: Kaggle Python — Functions and Getting Help
-- [x] S01: Kaggle Python — Booleans and Conditionals
-- [ ] S01: Remaining Python lessons
-- [ ] S02–S05: Learning resources
-- [ ] Weekly assignment: Message Analysis Script
+
+#### Learning Resources
+- [x] S01: Kaggle Python — All 7 lessons completed
+- [ ] S02: Python Tutorial
+- [ ] S03: Virtual Environments
+- [ ] S04: Pro Git
+- [ ] S05: Unit Testing
+
+#### Weekly Assignment — Message Analysis Script
+- [ ] Complete 20 Python exercises in `basics.ipynb`
+- [x] Create `messages.csv` with 30 sample messages
+- [ ] Implement `message_stats.py` (in progress: CSV reading completed)
+- [ ] Generate `summary.json`
+- [ ] Write five unit tests
+- [ ] Add setup and run instructions
