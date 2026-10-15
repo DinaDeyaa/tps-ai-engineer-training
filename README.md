@@ -16,15 +16,15 @@ Each week is organized into:
 
 #### Learning Resources
 - [x] S01: Kaggle Python — All 7 lessons completed
-- [x] S02: Python Tutorial
-- [ ] S03: Virtual Environments
-- [ ] S04: Pro Git
-- [ ] S05: Unit Testing
+- [x] S02: Python Tutorial ( Briefly skimmed )
+- [x] S03: Virtual Environments ( Briefly skimmed )
+- [x] S04: Pro Git ( Briefly skimmed )
+- [x] S05: Unit Testing ( Briefly skimmed; applied concepts in the assignment )
 
 #### Weekly Assignment — Message Analysis Script
 - [x] Complete 20 Python exercises in `basics.ipynb`
 - [x] Create `messages.csv` with 30 sample messages
 - [x] Implement `message_stats.py`
 - [x] Generate `summary.json`
-- [ ] Write five unit tests
-- [ ] Add setup and run instructions
+- [x] Write five unit tests
+- [x] Add setup and run instructions
