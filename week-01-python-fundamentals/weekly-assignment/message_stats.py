@@ -4,13 +4,19 @@ from pathlib import Path
 
 
 def calculate_stats(csv_path):
-    with open(csv_path, "r", encoding="utf-8") as file:
-        reader = csv.DictReader(file)
+    try:
+        with open(csv_path, "r", encoding="utf-8", newline="") as file:
+            reader = csv.DictReader(file, strict=True)
 
-        if reader.fieldnames != ["message_id", "text"]:
-            raise ValueError("Invalid CSV format")
+            if reader.fieldnames is None:
+                raise ValueError("CSV file is empty")
 
-        messages = list(reader)
+            if reader.fieldnames != ["message_id", "text"]:
+                raise ValueError("Invalid CSV format")
+
+            messages = list(reader)
+    except csv.Error:
+        raise ValueError("Invalid CSV format")
 
     if len(messages) == 0:
         raise ValueError("CSV file is empty")
